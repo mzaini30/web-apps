@@ -8,6 +8,7 @@
 - [Kaligrafi](http://muhammadzaini.com/kaligrafi)
 - [Murajaah Simpel](http://muhammadzaini.com/murajaah-simple)
 - [Murajaah](http://muhammadzaini.com/murajaah)
+- [Sekolah Impian](http://muhammadzaini.com/sekolah-impian)
 - [Tutorial Jade](http://muhammadzaini.com/tutorialjade)
 
 # Penelitian
