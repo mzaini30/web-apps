@@ -41,6 +41,7 @@
 | [Translate](/translate) | Aplikasi yang digunakan untuk menerjemahkan tulisan panjang secara cepat. Terintegrasi dengan Google _Translate_ |
 | [Undian](/undian) | Aplikasi yang memudahkan mengacak undian |
 | [Whatsapp Link Generator](/wa) | Aplikasi yang memudahkan untuk membuat _link_ Whatsapp dengan cepat |
+| [Keyboard Arabic](/keyboard-arabic) | Mengetik teks Arab di mana saja |
 
 # Psikologi
 
