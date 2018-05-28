@@ -33,6 +33,7 @@
 | [Download](/download) | _Tools_ yang memudahkan untuk download banyak _file_ |
 | [Enter](/enter) | _Tools_ untuk memudahkan penggabungan _enter_ pada jurnal ilmiah |
 | [Jumlah Satuan](/jumlah-satuan) | _Tools_ yang digunakan untuk penjumlahan angka-angka satuan dengan cepat |
+| [Keyboard Arabic](/keyboard-arabic) | Mengetik teks Arab di mana saja |
 | [Markdown](/markdown) | Konversi markdown menjadi _markup_ HTML |
 | [Materialize Color](/color30) | Koleksi berbagai warna pastel yang disadur dari Materialize CSS |
 | [Regex Tab](/regex-tab) | Menkonversi spasi menjadi tab |
@@ -41,7 +42,6 @@
 | [Translate](/translate) | Aplikasi yang digunakan untuk menerjemahkan tulisan panjang secara cepat. Terintegrasi dengan Google _Translate_ |
 | [Undian](/undian) | Aplikasi yang memudahkan mengacak undian |
 | [Whatsapp Link Generator](/wa) | Aplikasi yang memudahkan untuk membuat _link_ Whatsapp dengan cepat |
-| [Keyboard Arabic](/keyboard-arabic) | Mengetik teks Arab di mana saja |
 
 # Psikologi
 
