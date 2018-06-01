@@ -34,6 +34,7 @@
 | [Enter](/enter) | _Tools_ untuk memudahkan penggabungan _enter_ pada jurnal ilmiah |
 | [Jumlah Satuan](/jumlah-satuan) | _Tools_ yang digunakan untuk penjumlahan angka-angka satuan dengan cepat |
 | [Keyboard Arabic](/keyboard-arabic) | Mengetik teks Arab di mana saja |
+| [Konversi Nada](/konversi-nada) | Aplikasi untuk menkonversi not angka jadi huruf qwerty |
 | [Markdown](/markdown) | Konversi markdown menjadi _markup_ HTML |
 | [Materialize Color](/color30) | Koleksi berbagai warna pastel yang disadur dari Materialize CSS |
 | [Regex Tab](/regex-tab) | Menkonversi spasi menjadi tab |
