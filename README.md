@@ -20,7 +20,7 @@
 
 # Produktivitas
 
-- [Antrian Rumah Tahanan Samarinda](http://antrianrutansamarinda.epizy.com)
+- [Antrian Rumah Tahanan Samarinda](http://antrianrutansamarinda.com)
 - [Download](http://muhammadzaini.com/download)
 - [Enter](http://muhammadzaini.com/enter)
 - [Jumlah Satuan](http://muhammadzaini.com/jumlah-satuan)
