@@ -20,8 +20,8 @@
 | Nama | Keterangan |
 |-|-|
 | [Kontest](/kontest) | _Tools_ yang dibuat untuk otomatisasi penginputan 6 _software_ penelitian |
-| [Kontur Reverse](/kontur-reverse) | _Tools_ yang dibuat untuk menerjemahkan angka 1 menjadi "Sangat Setuju" |
-| [Kontur](/kontur) | _Tools_ yang dibuat untuk menerjemahkan "Sangat Setuju" menjadi angka 1 |
+| [Kontur Reverse](/kontur-reverse) | _Tools_ yang dibuat untuk menerjemahkan angka 4 menjadi "Sangat Setuju" |
+| [Kontur](/kontur) | _Tools_ yang dibuat untuk menerjemahkan "Sangat Setuju" menjadi angka 4 |
 | [Review Jurnal](/review-jurnal) | Panduan _review_ jurnal secara komprehensif |
 
 # Produktivitas
